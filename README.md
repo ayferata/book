@@ -1,8 +1,6 @@
 # book
 package bookSequencer;
-
 import java.time.LocalDate;
-
 public class Book implements Comparable<Book> {
 
     private String name;
