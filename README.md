@@ -1,5 +1,5 @@
 # book
-package java102.bookSequencer;
+package bookSequencer;
 
 import java.time.LocalDate;
 
